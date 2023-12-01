@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity 6 - Zambo, WIlliam Luther</string>
+    <string name="activity_6_zambo_william_luther">Activity 6 - Zambo, William Luther</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="time_picker">Time Picker</string>
+    <string name="result">Result</string>
+    <string name="back">Back</string>
+</resources>
